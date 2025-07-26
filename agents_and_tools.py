@@ -5,7 +5,7 @@ import requests
 # 시간 라이브러리
 from datetime import datetime
 
-improt os
+import os
 from dotenv import load_dotenv
 
 load_dotenv()
